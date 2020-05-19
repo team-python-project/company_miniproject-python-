@@ -134,4 +134,4 @@ def add():
     
     p.mainloop()
       
-   
+add()   
